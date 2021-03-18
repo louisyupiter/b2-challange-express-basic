@@ -1,5 +1,6 @@
-> duedate: jumat
-> cara pengumpulan: biasa di drive, di folder masing2, buat folder challenge-2, baru masukin disini zip workspace nya (jangan lupa di zip/rar ya). lalu node_module nya tidak perlu dikumpulkan.
+### rules:
+- duedate: jumat
+- cara pengumpulan: biasa di drive, di folder masing2, buat folder challenge-2, baru masukin disini zip workspace nya (jangan lupa di zip/rar ya). lalu node_module nya tidak perlu dikumpulkan.
 
 ```json
 [
