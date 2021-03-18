@@ -1,0 +1,32 @@
+[
+	{
+		"ID": 1,
+		"name": "Alpha",
+		"score": 100,
+		"class": "satu"
+	},
+	{
+		"ID": 2,
+		"name": "Beta",
+		"score": 76,
+		"class": "dua"
+	},
+	{
+		"ID": 3,
+		"name": "Charlie",
+		"score": 92,
+		"class": "tiga"
+	},
+	{
+		"ID": 4,
+		"name": "Delta",
+		"score": 71,
+		"class": "satu"
+	},
+	{
+		"ID": 5,
+		"name": "Echo",
+		"score": 80,
+		"class": "tiga"
+	}
+]
