@@ -90,12 +90,12 @@ contoh: localhost:3000/classes
 
 ```json
 {
-	"apple": [
+	"satu": [
 		{ "ID": 1, "name": "Alpha", "score": 100 },
 		{ "ID": 4, "name": "Delta", "score": 71 }
 	],
-	"orange": [{ "ID": 2, "name": "Beta", "score": 76 }],
-	"cherry": [
+	"dua": [{ "ID": 2, "name": "Beta", "score": 76 }],
+	"tiga": [
 		{ "ID": 3, "name": "Charlie", "score": 92 },
 		{ "ID": 5, "name": "Echo", "score": 80 }
 	]
