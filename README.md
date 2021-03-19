@@ -108,7 +108,7 @@ contoh: localhost:3000/classes
 
 ### mendapatkan data member class dari parameter
 
-contoh: localhost:3000/classes/apple
+contoh: localhost:3000/classes/satu
 
 ```json
 [
